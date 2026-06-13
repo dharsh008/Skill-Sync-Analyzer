@@ -1,0 +1,20 @@
+# Node.js dependencies
+frontend/node_modules/
+node_modules/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

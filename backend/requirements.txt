@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt==4.0.1
+python-jose[cryptography]
+python-multipart
+pdfplumber
+python-docx
+spacy
+scikit-learn
+pydantic
+pydantic-settings
+python-dotenv
+Levenshtein
+numpy
+pandas
